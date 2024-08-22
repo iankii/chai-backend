@@ -4,10 +4,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {},
-  "author": "",
+  "author": "Ankit",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
   }
 }
